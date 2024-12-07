@@ -1,0 +1,4 @@
+[05-Dec-2024 21:46:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/sangkeir/test.sangoro.xyz/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/sangkeir/test.sangoro.xyz/routes/channels.php on line 16
